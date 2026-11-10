@@ -6,7 +6,7 @@ Raid Quicklauncher is a compact UI for one-click joining or creating raid or str
 
 ## Features
 
-- **One-click instance creation**: each strike instance and raid checkpoint has their icon for creating an instance.
+- **One-click instance creation**: each strike instance and raid checkpoint has their own icon for creating an instance.
 - **Join existing instances**: shows a join button for each instance your squad occupies.
 - **Squad member table**: lists each player in the squad and their current instance.
 - **Completion tracking**: optionally color encounter buttons by its completion status.
