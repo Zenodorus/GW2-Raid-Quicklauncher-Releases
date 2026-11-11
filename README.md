@@ -21,7 +21,7 @@ Download from releases and place in your Guild Wars 2 `addons` directory.
 
 ## Usage
 
-- You must be on a level 80 character and in a Raid Squad to load view the available instances.
+- You must be on a level 80 character and in a Raid Squad to view the available instances.
 - You must have the pre-requisite expansion packs to access the raids or strikes; entry will be disabled otherwise.
 - The usual rules for raid instances apply: you cannot have more than 2 raid instances open at the same time, and you 
   cannot open more than one of the same instance (even at different checkpoints).
