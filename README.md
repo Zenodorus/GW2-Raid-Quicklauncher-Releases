@@ -26,6 +26,12 @@ Download from releases and place in your Guild Wars 2 `addons` directory.
 - The usual rules for raid instances apply: you cannot have more than 2 raid instances open at the same time, and you 
   cannot open more than one of the same instance (even at different checkpoints).
 
+## Icons
+
+The icons used are downloaded from this repo and stored in `addons/RaidQuicklauncher/icons/`.  If you wish to use a 
+different icon for a particular encounter, just replace the file with the same name.  All icons will be rendered as 
+squares.
+
 ## Screenshots
 
 ![Raid Quicklauncher with join buttons for both occupied instances, and encounter buttons bordered green or red by completion status](screenshots/screenshot1.png)
