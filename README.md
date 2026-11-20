@@ -32,6 +32,21 @@ The icons used are downloaded from this repo and stored in `addons/RaidQuicklaun
 different icon for a particular encounter, just replace the file with the same name.  All icons will be rendered as 
 squares.
 
+## Custom Raid Clear Orders
+
+In the addon configuration, you can create a custom list of instances unique to your raid groups clear order.  From 
+this list, you can immediately click on the next instance in your list once you are done with the current one.
+
+![Raid Quicklauncher and configuration window showing a custom Full Clear](screenshots/screenshot5.png)
+
+## Disclaimer: Be careful about leaving too quickly without getting rewards.
+
+In my experience, in combination with a cutscene skipping addon, CM rewards for Dhuum, Qadim, and Qadim the Peerless 
+(each have a cutscene at the end)
+are received up to a few seconds after going out of combat, so it is possible to go to your next instance without
+receiving full rewards.  You can toggle on the border indicator to see that you were credited with success before
+moving on.
+
 ## Screenshots
 
 ![Raid Quicklauncher with join buttons for both occupied instances, and encounter buttons bordered green or red by completion status](screenshots/screenshot1.png)
